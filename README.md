@@ -109,10 +109,6 @@ All styles are written in CSS and can be found in `Todo.css`, `TodoItem.css`and 
 3. **Persistent Storage**
    - The tasks are saved in the browser's local storage. You can refresh the page, close the browser, and reopen it without losing your tasks.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgements
 
 - [Vite](https://vitejs.dev/)
