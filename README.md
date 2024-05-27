@@ -104,7 +104,7 @@ All styles are written in CSS and can be found in `Todo.css`, `TodoItem.css`and 
 
 2. **Deleting a task**
 
-   - Click the "Delete" button next to a task to remove it from the list.
+   - Click the " X" button next to a task to remove it from the list.
 
 3. **Persistent Storage**
    - The tasks are saved in the browser's local storage. You can refresh the page, close the browser, and reopen it without losing your tasks.
